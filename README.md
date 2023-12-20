@@ -91,7 +91,8 @@ For this project, we will compare the performance of photogrammetry, NeRFs and G
 [📄 Getting Started With 3D Gaussian Splatting for Windows: gaussian-splatting-Windows GitHub repository](https://github.com/jonstephens85/gaussian-splatting-Windows) <br /> 
 [🔨 Akiya Research Institute 3D Gaussians Plugin for UE5](https://www.unrealengine.com/marketplace/ja/product/410c8105b3aa41d38ab68660295bd7f3?sessionInvalidated=true) <br /> 
 [🔨 TurboNeRF](https://github.com/JamesPerlman/TurboNeRF) <br /> 
-[🔨 nerfstudio](https://github.com/nerfstudio-project/nerfstudio) <br /> 
+[🔨 nerfstudio](https://github.com/nerfstudio-project/nerfstudio) <br />
+[🔨 Luma Unreal Engine Plugin](https://lumaai.notion.site/Luma-Unreal-Engine-Plugin-0-4-8005919d93444c008982346185e933a1) <br />
 ## Comparative Analysis
 ## Evaluation
 
