@@ -4,6 +4,22 @@
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 ![Last-Commit](https://img.shields.io/github/last-commit/authorTom/virtual-clinical-environment?style=for-the-badge)
+## Contents
+- [Objectives](#objectives)
+- [Key Features](#key-features)
+- [Project Scope](#project-scope)
+- [Potential Benefits](#potential-benefits)
+- [Techniques for Development](#techniques-for-development)
+  - [Photogrammetry](#photogrammetry)
+  - [NeRFs (Neural Radiance Fields)](#nerfs-neural-radiance-fields)
+  - [Gaussian Splatting](#gaussian-splatting)
+- [Comparison of Techniques](#comparison-of-techniques)
+- [Data Collection](#data-collection)
+- [3D Reconstruction](#3d-reconstruction)
+- [XR Integration](#xr-integration)
+- [Tools & Resources](#tools--resources)
+- [Comparative Analysis](#comparative-analysis)
+- [Evaluation](#evaluation)
 ## Objectives
 * To design and develop a realistic virtual clinical environment that extends beyond the capabilities of 360 videos and images, granting users 6 degrees of freedom (6DoF) to explore and engage with the content. <br />
 * To compare several environment development techniques such as photogrammetry, NeRFs, and Gaussian splatting. <br /> 
