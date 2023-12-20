@@ -63,8 +63,19 @@ Photogrammetry is a well-established technique for 3D reconstruction, but it can
 <br />
 For this project, we will compare the performance of photogrammetry, NeRFs and Gaussian splatting for reconstructing a clinical environment. We will also evaluate the usability and effectiveness of rendering the virtual environment in XR using Unreal Engine. <br /> 
 ## Data Collection
+[What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/)
+[What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/)
 ## 3D Reconstruction
 ## XR Integration
+## Tools & Resources
+[🔨XVERSE: A free Unreal Engine 5 Gaussian Splatting plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin/releases) <br /> 
+[🔨 Gauzilla: A 3D Gaussian Splatting (3DGS) renderer written in Rust for platform-agnostic WebAssembly (WASM)](https://github.com/BladeTransformerLLC/gauzilla) <br /> 
+[🔨 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/) <br /> 
+[📺 Getting Started With 3D Gaussian Splatting for Windows: (Beginner Tutorial)](https://www.youtube.com/watch?v=UXtuigy_wYc) <br /> 
+[📄 Getting Started With 3D Gaussian Splatting for Windows: gaussian-splatting-Windows GitHub repository](https://github.com/jonstephens85/gaussian-splatting-Windows) <br /> 
+[🔨 Akiya Research Institute 3D Gaussians Plugin for UE5](https://www.unrealengine.com/marketplace/ja/product/410c8105b3aa41d38ab68660295bd7f3?sessionInvalidated=true) <br /> 
+[🔨 TurboNeRF](https://github.com/JamesPerlman/TurboNeRF) <br /> 
+[🔨 nerfstudio](https://github.com/nerfstudio-project/nerfstudio) <br /> 
 ## Comparative Analysis
 ## Evaluation
 
