@@ -79,8 +79,8 @@ Photogrammetry is a well-established technique for 3D reconstruction, but it can
 <br />
 For this project, we will compare the performance of photogrammetry, NeRFs and Gaussian splatting for reconstructing a clinical environment. We will also evaluate the usability and effectiveness of rendering the virtual environment in XR using Unreal Engine. <br /> 
 ## Data Collection
-[What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/)
-[What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/)
+[What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/) <br />
+[What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/) <br />
 ## 3D Reconstruction
 ## XR Integration
 ## Tools & Resources
