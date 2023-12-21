@@ -71,7 +71,7 @@ To render a Gaussian splatting scene, the particles are first converted into 2D 
 <br />
 Gaussian splatting has several advantages over traditional 3D rendering techniques. First, it is very efficient, as it can be implemented using standard GPU rasterization hardware. Second, it is very flexible, as it can represent a wide variety of 3D scenes, including those with complex geometries and materials. Third, it is very scalable, as it can be used to render scenes with millions of polygons. <br /> 
 <br />
-Gaussian splatting has been used to create a variety of applications, including real-time rendering of 3D scenes, 3D reconstruction from images, and 3D printing. It is a powerful technique that has the potential to revolutionise the way we interact with 3D content. <br />
+Gaussian splatting has been used to create a variety of various applications, including real-time rendering of 3D scenes, 3D reconstruction from images, and 3D printing. It is a powerful technique that has the potential to revolutionise the way we interact with 3D content. <br />
 <br />
 [📄 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 ## Comparison of Techniques 
@@ -79,6 +79,36 @@ Photogrammetry is a well-established technique for 3D reconstruction, but it can
 <br />
 For this project, we will compare the performance of photogrammetry, NeRFs and Gaussian splatting for reconstructing a clinical environment. We will also evaluate the usability and effectiveness of rendering the virtual environment in XR using Unreal Engine. <br /> 
 ## Data Collection
+Data collection involves capturing video and image data of the Environments. We captured three clinical environments using a mixture of devices and settings. I felt the most optimal way of capturing enough images for model training is to record video and then extract images from the individual frames. <br />
+<br />
+**Patient Consultation Room**
+|               | iPhone 13| Column 2 | Column 3 |
+|---------------|:--------:|:--------:|:--------:|
+| Shutter Speed |          |          |          |
+| Aperture      |          |          |          |
+| ISO           |          |          |          |
+| Resolution    |          |          |          |
+| Format        |          |          |          |
+
+**Hospital Ward**
+|               | iPhone 13| Column 2 | Column 3 |
+|---------------|:--------:|:--------:|:--------:|
+| Shutter Speed |          |          |          |
+| Aperture      |          |          |          |
+| ISO           |          |          |          |
+| Resolution    |          |          |          |
+| Format        |          |          |          |
+
+**Operating Room**
+|               | iPhone 13| Column 2 | Column 3 |
+|---------------|:--------:|:--------:|:--------:|
+| Shutter Speed |          |          |          |
+| Aperture      |          |          |          |
+| ISO           |          |          |          |
+| Resolution    |          |          |          |
+| Format        |          |          |          |
+
+Michael Rubloff has provided guidance on camera settings. <br />
 [📄 What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/) <br />
 [📄 What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/) <br />
 ## 3D Reconstruction
