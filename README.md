@@ -82,14 +82,17 @@ For this project, we will compare the performance of photogrammetry, NeRFs and G
 Data collection involves capturing video and image data of the Environments. We captured three clinical environments using a mixture of devices and settings. I felt the most optimal way of capturing enough images for model training is to record video and then extract images from the individual frames. <br />
 <br />
 **Patient Consultation Room**
-|               | iPhone 13| Column 2 | Column 3 |
-|---------------|:--------:|:--------:|:--------:|
-| Shutter speed |          |          |          |
-| Aperture      |          |          |          |
-| ISO           |          |          |          |
-| Resolution    |          |          |          |
-| Capture length|          |          |          |
-| Format        |          |          |          |
+|               | Setup 1  | Setup 2  | Setup 3  | Setup 4  | Setup 5  | Setup 6  | Setup 7  | Setup 8  |
+|---------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Device        |iPhone 13 |iPhone 13 |iPhone 13 |iPhone 13 |Canon R6  |Canon R6  |Canon R6  |Canon R6  |
+| Lens          | -        | -        | -        | -        |24-105mm  |24-105mm  |24-105mm  |24-105mm  |
+| Capture length|2 min     |5 min     |2 min     |5 min     |2 min     |5 min     |2 min     |5 min     |
+| Shutter speed |          |          |          |          |          |          |          |          |       
+| Aperture      |          |          |          |          |          |          |          |          |
+| ISO           |          |          |          |          |          |          |          |          |
+| Resolution    |1080      |1080      |4K        |4K        |1080      |1080      |4K        |4K        |
+| FPS           |60 fps    |60 fps    |25 fps    |25 fps    |50 fps    |50 fps    |25 fps    |25 fps    |
+| Format        |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |
 
 **Hospital Ward**
 |               | iPhone 13| Column 2 | Column 3 |
