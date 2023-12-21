@@ -89,7 +89,13 @@ The following steps were taken: Image preparation ➡️ Model Training ➡️ D
 <br />
 The implementation and testing were conducted on a machine running Windows 11, equipped with the following specifications:<br />
 #### Software Pre-requisites
-
+* [Git](https://git-scm.com/downloads)
+* [Conda](https://www.anaconda.com/download)
+* [CUDA Toolkit (tested with version 11.8 only)](https://developer.nvidia.com/cuda-toolkit-archive)
+* [Visual Studio (ensure to install Desktop Development with C++)](https://visualstudio.microsoft.com/downloads/)
+* [COLMAP](https://github.com/colmap/colmap/releases)
+* [ImageMagik](https://imagemagick.org/script/download.php)
+* [FFMPEG](https://ffmpeg.org/download.html)
 ## XR Integration
 ## Tools & Resources
 [🔨XVERSE: A free Unreal Engine 5 Gaussian Splatting plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin/releases) <br /> 
