@@ -82,6 +82,14 @@ For this project, we will compare the performance of photogrammetry, NeRFs and G
 [📄 What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/) <br />
 [📄 What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/) <br />
 ## 3D Reconstruction
+### Gaussian Splatting
+As of writing, implementing Gaussian Splatting on a local machine remains challenging. I would like to extend my gratitude to Jon Stephens. His comprehensive tutorial has been instrumental in navigating the complexities of setting up and executing the [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting) process, including image preparation and data training. Jon's insights and instructions have been invaluable in this process. You can find his detailed guide [here](https://github.com/jonstephens85/gaussian-splatting-Windows). <br />
+<br />
+The following steps were taken: Image preparation ➡️ Model Training ➡️ Data Visualisation ➡️ Export to Unreal Engine <br />
+<br />
+The implementation and testing were conducted on a machine running Windows 11, equipped with the following specifications:<br />
+#### Software Pre-requisites
+
 ## XR Integration
 ## Tools & Resources
 [🔨XVERSE: A free Unreal Engine 5 Gaussian Splatting plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin/releases) <br /> 
