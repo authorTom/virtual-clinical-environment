@@ -91,7 +91,7 @@ Data collection involves capturing video and image data of the Environments. We 
 | Aperture      |          |          |          |          |          |          |          |          |
 | ISO           |          |          |          |          |          |          |          |          |
 | Resolution    |1080      |1080      |4K        |4K        |1080      |1080      |4K        |4K        |
-| FPS           |60 fps    |60 fps    |25 fps    |25 fps    |50 fps    |50 fps    |25 fps    |25 fps    |
+| FPS           |60 fps    |60 fps    |30 fps    |30 fps    |50 fps    |50 fps    |25 fps    |25 fps    |
 | Format        |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |
 
 **Hospital Ward**
