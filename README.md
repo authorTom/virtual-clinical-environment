@@ -84,19 +84,21 @@ Data collection involves capturing video and image data of the Environments. We 
 **Patient Consultation Room**
 |               | iPhone 13| Column 2 | Column 3 |
 |---------------|:--------:|:--------:|:--------:|
-| Shutter Speed |          |          |          |
+| Shutter speed |          |          |          |
 | Aperture      |          |          |          |
 | ISO           |          |          |          |
 | Resolution    |          |          |          |
+| Capture length|          |          |          |
 | Format        |          |          |          |
 
 **Hospital Ward**
 |               | iPhone 13| Column 2 | Column 3 |
 |---------------|:--------:|:--------:|:--------:|
-| Shutter Speed |          |          |          |
+| Shutter speed |          |          |          |
 | Aperture      |          |          |          |
 | ISO           |          |          |          |
 | Resolution    |          |          |          |
+| Capture length|          |          |          |
 | Format        |          |          |          |
 
 **Operating Room**
@@ -106,6 +108,7 @@ Data collection involves capturing video and image data of the Environments. We 
 | Aperture      |          |          |          |
 | ISO           |          |          |          |
 | Resolution    |          |          |          |
+| Capture length|          |          |          |
 | Format        |          |          |          |
 
 Michael Rubloff has provided guidance on camera settings. <br />
