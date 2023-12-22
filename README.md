@@ -94,26 +94,6 @@ Data collection involves capturing video and image data of the Environments. We 
 | FPS           |60 fps    |60 fps    |30 fps    |30 fps    |50 fps    |50 fps    |25 fps    |25 fps    |
 | Format        |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |
 
-**Hospital Ward**
-|               | iPhone 13| Column 2 | Column 3 |
-|---------------|:--------:|:--------:|:--------:|
-| Shutter speed |          |          |          |
-| Aperture      |          |          |          |
-| ISO           |          |          |          |
-| Resolution    |          |          |          |
-| Capture length|          |          |          |
-| Format        |          |          |          |
-
-**Operating Room**
-|               | iPhone 13| Column 2 | Column 3 |
-|---------------|:--------:|:--------:|:--------:|
-| Shutter Speed |          |          |          |
-| Aperture      |          |          |          |
-| ISO           |          |          |          |
-| Resolution    |          |          |          |
-| Capture length|          |          |          |
-| Format        |          |          |          |
-
 Michael Rubloff has provided guidance on camera settings. <br />
 [📄 What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/) <br />
 [📄 What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/) <br />
