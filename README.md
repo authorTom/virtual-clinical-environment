@@ -82,6 +82,10 @@ For this project, we will compare the performance of photogrammetry, NeRFs and G
 Data collection involves capturing video and image data of the Environments. We captured three clinical environments using a mixture of devices and settings. I felt the most optimal way of capturing enough images for model training is to record video and then extract images from the individual frames. <br />
 <br />
 **Patient Consultation Room**
+
+![Image of the patient consultation room](https://github.com/authorTom/virtual-clinical-environment/blob/main/images/5.JPG)
+Patient consultation room - this is part of the clinical simulation suite at University Hospitals Birmingham NHS Trust <br />
+<br />
 |               | Setup 1  | Setup 2  | Setup 3  | Setup 4  | Setup 5  | Setup 6  | Setup 7  | Setup 8  |
 |---------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Device        |iPhone 13 |iPhone 13 |iPhone 13 |iPhone 13 |Canon R6  |Canon R6  |Canon R6  |Canon R6  |
@@ -95,6 +99,7 @@ Data collection involves capturing video and image data of the Environments. We 
 | Format        |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |Mov       |
 
 Michael Rubloff has provided guidance on camera settings. <br />
+
 [📄 What are the Best Camera Settings to take a NeRF?](https://radiancefields.com/what-are-the-best-camera-settings-to-take-a-nerf/) <br />
 [📄 What’s the best Focal Length to take a NeRF?](https://radiancefields.com/whats-the-best-focal-length-to-take-a-nerf/) <br />
 ## 3D Reconstruction
